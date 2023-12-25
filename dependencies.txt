@@ -9,6 +9,6 @@ step 3
    npm install electron --save-dev
 
 step 4    //(final step)
-   run the app by wruting the following line
+   run the app by writing the following line
    npm start
 
